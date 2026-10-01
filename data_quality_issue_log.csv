@@ -1,0 +1,9 @@
+Issue,Count,Status,Action
+Missing values,0,No Issue,No action required
+Duplicate rows,0,No Issue,No action required
+Sales <= 0,0,No Issue,No action required
+Quantity <= 0,0,No Issue,No action required
+Discount < 0,0,No Issue,No action required
+Discount > 1,0,No Issue,No action required
+Profit greater than Sales,0,No Issue,No action required
+Sales with zero Quantity,0,No Issue,No action required
